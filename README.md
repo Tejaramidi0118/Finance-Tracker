@@ -65,7 +65,3 @@ The application uses **Java's serialization** to save and load transaction data.
 * `loadTransactions()`: This method deserializes the data from the user-specific file and populates the transaction table when the application starts.
 
 ---
-
-## Contributions
-
-Feel free to fork the repository, submit pull requests, or report issues. Your contributions are welcome!
