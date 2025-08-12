@@ -32,5 +32,3 @@ The application supports *persistent storage* using serialized files (.ser) for 
   - Mouse hover effects for buttons for better user experience.
 
 ---
-
-## 📂 Project Structure
