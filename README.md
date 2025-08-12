@@ -32,21 +32,6 @@ A simple, user-friendly **Java Swing** application to track personal finances, m
 
 ---
 
-## How to Run
-
-1.  **Prerequisites**: Ensure you have a **Java Development Kit (JDK)** installed on your system.
-2.  **Clone or Download**: Get the source code for the project.
-3.  **Compile**: Open your terminal or command prompt, navigate to the project directory, and compile the Java files using the `javac` command:
-    ```bash
-    javac Project/*.java
-    ```
-4.  **Run**: Execute the main class, `OpeningFrame`, to start the application:
-    ```bash
-    java Project.OpeningFrame
-    ```
-    This will launch the user login window where you can enter your name to begin.
-
----
 
 ## Project Structure
 
